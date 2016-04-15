@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/my_videos?o=U'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'A short aerial clip of Antigua & Barbuda Cycling Federaton race, The ABCF Fig Tree Hill Road Race'
-datePublished: '2016-04-15T19:51:04.932Z'
-dateModified: '2016-04-15T19:50:54.259Z'
+description: 'A short aerial clip done for Antigua & Barbuda Cycling Federaton race, The ABCF Fig Tree Hill Road Race'
+datePublished: '2016-04-15T19:57:17.435Z'
+dateModified: '2016-04-15T19:56:15.268Z'
 author: []
 title: ''
 authors: []
