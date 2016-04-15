@@ -1,7 +1,7 @@
 name: Special Request Tech
 favicon: null
-layout_spectrum: 0.38313507032580674
-typography_spectrum: 0.030823031207546592
+layout_spectrum: 1
+typography_spectrum: 0.08788
 title: 'NETWORKING & AERIAL PHOTOGRAPHY'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8396747536025941
+    - '#ffffff'
+    - '#151c14'
+    - '#1279c6'
+    - '#a9b9c8'
+    - '#715e50'
+  brandStrength: 0.8125
   lightness: 0.08989675459451973
-  saturation: 0.9391643302515149
+  saturation: 0.875
   rhythmicContrast: 0.13736327667720616
 purpose: []
