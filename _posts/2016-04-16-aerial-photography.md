@@ -17,8 +17,8 @@ keywords:
   - faa
   - modeling
 description: 'Aerial photography is the taking of photographs of the ground from an elevated/direct-down position. Usually the camera is not supported by a ground-based structure. Platforms for aerial photography include fixed-wing aircraft, helicopters, multirotor Unmanned Aircraft Systems (UAS), balloons, blimps and dirigibles, rockets, pigeons, kites, parachutes, stand-alone telescoping and vehicle-mounted poles.'
-datePublished: '2016-04-16T14:36:50.852Z'
-dateModified: '2016-04-16T14:36:36.860Z'
+datePublished: '2016-04-16T14:38:16.598Z'
+dateModified: '2016-04-16T14:37:00.761Z'
 author: []
 related: []
 app_links:
@@ -27,14 +27,14 @@ app_links:
     namespace: google
     type: android
 title: Aerial photography
+sourcePath: _posts/2016-04-16-aerial-photography.md
+published: true
 authors: []
 publisher:
   name: Wikipedia
   domain: en.wikipedia.org
   url: 'https://en.wikipedia.org'
   favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
-sourcePath: _posts/2016-04-16-aerial-photography.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
